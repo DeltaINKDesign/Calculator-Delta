@@ -8,3 +8,13 @@ C:\Users\Iza\source\repos\Delta\Delta\obj\Debug\Delta.csproj.GenerateResource.ca
 C:\Users\Iza\source\repos\Delta\Delta\obj\Debug\Delta.csproj.CoreCompileInputs.cache
 C:\Users\Iza\source\repos\Delta\Delta\obj\Debug\Delta.exe
 C:\Users\Iza\source\repos\Delta\Delta\obj\Debug\Delta.pdb
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\bin\Debug\Delta.exe.config
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\bin\Debug\Delta.exe
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\bin\Debug\Delta.pdb
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\obj\Debug\Delta.csprojAssemblyReference.cache
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\obj\Debug\Delta.Form1.resources
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\obj\Debug\Delta.Properties.Resources.resources
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\obj\Debug\Delta.csproj.GenerateResource.cache
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\obj\Debug\Delta.csproj.CoreCompileInputs.cache
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\obj\Debug\Delta.exe
+C:\Users\Iza\Documents\GitHub\Calculator-Delta\Delta\obj\Debug\Delta.pdb
